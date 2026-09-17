@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Large datasets
+Data/creditcard.csv
+Data/processed/fraud_cleaned.csv
+
+# Large database
+fraud.db
+
+# Large Power BI file
+Power BI/*.pbix
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
