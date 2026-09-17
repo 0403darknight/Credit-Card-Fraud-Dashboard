@@ -352,13 +352,29 @@ This project was built to demonstrate how data engineering, SQL analytics, machi
 
 ---
 
-## 📬 Contact
+## 📬 Connect With Me
 
-**Dhiksha C G**
-- GitHub: [0403darknight](https://github.com/0403darknight)
-- LinkedIn: {https://www.linkedin.com/in/dhiksha-c-g-43b579285}{LinkedIn}
-- Email: *dhikshacg@gmail.com*
+**Dhiksha C G**  
+*Computer Science (Data Science) Graduate*
+
+<p align="center">
+
+<a href="https://github.com/0403darknight">
+  <img src="https://img.shields.io/badge/GitHub-0403darknight-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/dhiksha-c-g-43b579285">
+  <img src="https://img.shields.io/badge/LinkedIn-Dhiksha%20C%20G-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:dhikshacg@gmail.com">
+  <img src="https://img.shields.io/badge/Email-dhikshacg%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
-### ⭐ If you find this project useful, consider starring the repository.
+<p align="center">
+  <i>Interested in Data Science, Analytics, Machine Learning & Business Intelligence.</i>
+</p>
